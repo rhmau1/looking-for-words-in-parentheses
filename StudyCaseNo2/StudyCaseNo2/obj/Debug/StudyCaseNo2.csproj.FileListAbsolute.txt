@@ -1,0 +1,8 @@
+C:\Users\hp\OneDrive\Dokumen\visual-studio\StudyCaseNo2\StudyCaseNo2\bin\Debug\StudyCaseNo2.exe.config
+C:\Users\hp\OneDrive\Dokumen\visual-studio\StudyCaseNo2\StudyCaseNo2\bin\Debug\StudyCaseNo2.exe
+C:\Users\hp\OneDrive\Dokumen\visual-studio\StudyCaseNo2\StudyCaseNo2\bin\Debug\StudyCaseNo2.pdb
+C:\Users\hp\OneDrive\Dokumen\visual-studio\StudyCaseNo2\StudyCaseNo2\obj\Debug\StudyCaseNo2.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Dokumen\visual-studio\StudyCaseNo2\StudyCaseNo2\obj\Debug\StudyCaseNo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive\Dokumen\visual-studio\StudyCaseNo2\StudyCaseNo2\obj\Debug\StudyCaseNo2.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\visual-studio\StudyCaseNo2\StudyCaseNo2\obj\Debug\StudyCaseNo2.exe
+C:\Users\hp\OneDrive\Dokumen\visual-studio\StudyCaseNo2\StudyCaseNo2\obj\Debug\StudyCaseNo2.pdb
